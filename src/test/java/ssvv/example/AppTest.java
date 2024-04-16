@@ -14,7 +14,7 @@ import validation.StudentValidator;
 public class AppTest {
     private StudentXMLRepository studentRepository;
 
-    public StudentTest() {
+    public AppTest() {
     }
 
     @Before
